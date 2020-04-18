@@ -1,6 +1,6 @@
-com.gitlab.codedoctorde.itemmods.api
-com.gitlab.codedoctorde.itemmods.commands
-com.gitlab.codedoctorde.itemmods.config
-com.gitlab.codedoctorde.itemmods.gui
-com.gitlab.codedoctorde.itemmods.listener
-com.gitlab.codedoctorde.itemmods.main
+com.github.codedoctorde.itemmods.api
+com.github.codedoctorde.itemmods.commands
+com.github.codedoctorde.itemmods.config
+com.github.codedoctorde.itemmods.gui
+com.github.codedoctorde.itemmods.listener
+com.github.codedoctorde.itemmods.main
