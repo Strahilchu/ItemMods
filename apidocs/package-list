@@ -1,9 +1,10 @@
 com.github.codedoctorde.itemmods
+com.github.codedoctorde.itemmods.addon
+com.github.codedoctorde.itemmods.addon.templates.item
 com.github.codedoctorde.itemmods.api
 com.github.codedoctorde.itemmods.commands
 com.github.codedoctorde.itemmods.config
 com.github.codedoctorde.itemmods.gui
 com.github.codedoctorde.itemmods.gui.choose.block
-com.github.codedoctorde.itemmods.gui.choose.item.block
+com.github.codedoctorde.itemmods.gui.choose.item
 com.github.codedoctorde.itemmods.listener
-com.github.codedoctorde.itemmods.templates.item
