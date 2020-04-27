@@ -8,3 +8,4 @@ com.github.codedoctorde.itemmods.gui
 com.github.codedoctorde.itemmods.gui.choose.block
 com.github.codedoctorde.itemmods.gui.choose.item
 com.github.codedoctorde.itemmods.listener
+com.github.codedoctorde.itemmods.utils
