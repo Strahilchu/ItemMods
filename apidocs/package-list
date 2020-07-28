@@ -1,6 +1,7 @@
 com.github.codedoctorde.itemmods
 com.github.codedoctorde.itemmods.addon
 com.github.codedoctorde.itemmods.addon.templates.item
+com.github.codedoctorde.itemmods.addon.templates.item.food
 com.github.codedoctorde.itemmods.api
 com.github.codedoctorde.itemmods.api.block
 com.github.codedoctorde.itemmods.api.events
