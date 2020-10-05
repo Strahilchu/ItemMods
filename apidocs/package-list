@@ -1,7 +1,6 @@
 com.github.codedoctorde.itemmods
 com.github.codedoctorde.itemmods.addon
 com.github.codedoctorde.itemmods.addon.templates.item
-com.github.codedoctorde.itemmods.addon.templates.item.food
 com.github.codedoctorde.itemmods.api
 com.github.codedoctorde.itemmods.api.block
 com.github.codedoctorde.itemmods.api.events
@@ -9,7 +8,10 @@ com.github.codedoctorde.itemmods.api.item
 com.github.codedoctorde.itemmods.commands
 com.github.codedoctorde.itemmods.config
 com.github.codedoctorde.itemmods.gui
-com.github.codedoctorde.itemmods.gui.choose.block
-com.github.codedoctorde.itemmods.gui.choose.item
+com.github.codedoctorde.itemmods.gui.block
+com.github.codedoctorde.itemmods.gui.block.choose
+com.github.codedoctorde.itemmods.gui.block.events
+com.github.codedoctorde.itemmods.gui.item
+com.github.codedoctorde.itemmods.gui.item.choose
 com.github.codedoctorde.itemmods.listener
 com.github.codedoctorde.itemmods.utils
