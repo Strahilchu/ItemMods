@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[3659],{2187:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/itemmods","name":"itemmods","count":2,"permalink":"/blog/tags/itemmods"}')}}]);

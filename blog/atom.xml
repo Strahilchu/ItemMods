@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itemmods.linwood.dev/blog</id>
     <title>ItemMods Blog</title>
-    <updated>2021-09-05T00:00:00.000Z</updated>
+    <updated>2021-09-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itemmods.linwood.dev/blog"/>
     <subtitle>ItemMods Blog</subtitle>
     <icon>https://itemmods.linwood.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2.0.0-alpha.1 released]]></title>
+        <id>2.0.0-alpha.1 released</id>
+        <link href="https://itemmods.linwood.dev/blog/2021/09/15/2.0.0-alpha.1-released"/>
+        <updated>2021-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a maintenance update.]]></summary>
+        <author>
+            <name>CodeDoctorDE</name>
+            <uri>https://github.com/CodeDoctorDE</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2.0.0-alpha.0 released]]></title>
         <id>2.0.0-alpha.0 released</id>

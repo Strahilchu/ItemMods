@@ -4,9 +4,16 @@
         <title>ItemMods Blog</title>
         <link>https://itemmods.linwood.dev/blog</link>
         <description>ItemMods Blog</description>
-        <lastBuildDate>Sun, 05 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2.0.0-alpha.1 released]]></title>
+            <link>https://itemmods.linwood.dev/blog/2021/09/15/2.0.0-alpha.1-released</link>
+            <guid>2.0.0-alpha.1 released</guid>
+            <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a maintenance update.]]></description>
+        </item>
         <item>
             <title><![CDATA[2.0.0-alpha.0 released]]></title>
             <link>https://itemmods.linwood.dev/blog/2021/09/05/2.0.0-alpha.0-released</link>
