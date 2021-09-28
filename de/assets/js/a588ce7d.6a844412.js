@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[7203],{4789:function(s){s.exports=JSON.parse('{"allTagsPath":"/de/blog/tags","slug":"/de/blog/tags/birthday","name":"birthday","count":1,"permalink":"/de/blog/tags/birthday"}')}}]);

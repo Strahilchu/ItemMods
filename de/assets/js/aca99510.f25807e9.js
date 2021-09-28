@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[2579],{9799:function(a){a.exports=JSON.parse('{"allTagsPath":"/de/blog/tags","slug":"/de/blog/tags/alpha","name":"alpha","count":2,"permalink":"/de/blog/tags/alpha"}')}}]);

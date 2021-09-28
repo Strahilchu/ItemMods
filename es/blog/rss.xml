@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>ItemMods Blog</title>
+        <link>https://itemmods.linwood.dev/es/blog</link>
+        <description>ItemMods Blog</description>
+        <lastBuildDate>Wed, 15 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2.0.0-alpha.1 released]]></title>
+            <link>https://itemmods.linwood.dev/es/blog/2021/09/15/2.0.0-alpha.1-released</link>
+            <guid>2.0.0-alpha.1 released</guid>
+            <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is a maintenance update. Translation bugs (#18) were fixed and new api methods were implemented.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2.0.0-alpha.0 released]]></title>
+            <link>https://itemmods.linwood.dev/es/blog/2021/09/05/2.0.0-alpha.0-released</link>
+            <guid>2.0.0-alpha.0 released</guid>
+            <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[ItemMods has its first birthday! Happy birthday! Come to the discord to celebrate this! I rewrote the plugin.]]></description>
+        </item>
+    </channel>
+</rss>
