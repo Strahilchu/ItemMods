@@ -1,4 +1,12 @@
 dev.linwood.itemmods
+dev.linwood.itemmods.actions
+dev.linwood.itemmods.actions.pack
+dev.linwood.itemmods.actions.pack.block
+dev.linwood.itemmods.actions.pack.item
+dev.linwood.itemmods.actions.pack.raw
+dev.linwood.itemmods.actions.pack.raw.model
+dev.linwood.itemmods.actions.pack.raw.texture
+dev.linwood.itemmods.actions.pack.template
 dev.linwood.itemmods.addon
 dev.linwood.itemmods.addon.templates.item
 dev.linwood.itemmods.addon.templates.model
@@ -8,14 +16,6 @@ dev.linwood.itemmods.api.events
 dev.linwood.itemmods.api.item
 dev.linwood.itemmods.commands
 dev.linwood.itemmods.config
-dev.linwood.itemmods.gui
-dev.linwood.itemmods.gui.pack
-dev.linwood.itemmods.gui.pack.block
-dev.linwood.itemmods.gui.pack.item
-dev.linwood.itemmods.gui.pack.raw
-dev.linwood.itemmods.gui.pack.raw.model
-dev.linwood.itemmods.gui.pack.raw.texture
-dev.linwood.itemmods.gui.pack.template
 dev.linwood.itemmods.listener
 dev.linwood.itemmods.pack
 dev.linwood.itemmods.pack.asset
