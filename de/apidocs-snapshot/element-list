@@ -1,12 +1,7 @@
 dev.linwood.itemmods
 dev.linwood.itemmods.action
 dev.linwood.itemmods.action.pack
-dev.linwood.itemmods.action.pack.block
-dev.linwood.itemmods.action.pack.item
 dev.linwood.itemmods.action.pack.raw
-dev.linwood.itemmods.action.pack.raw.model
-dev.linwood.itemmods.action.pack.raw.texture
-dev.linwood.itemmods.action.pack.template
 dev.linwood.itemmods.addon
 dev.linwood.itemmods.addon.templates.item
 dev.linwood.itemmods.addon.templates.model
