@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[3027],{5124:function(o){o.exports=JSON.parse('{"allTagsPath":"/no/blog/tags","slug":"/no/blog/tags/produktmodifikasjoner","name":"produktmodifikasjoner","count":2,"permalink":"/no/blog/tags/produktmodifikasjoner"}')}}]);

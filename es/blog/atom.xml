@@ -8,33 +8,26 @@
     <subtitle>ItemMods Blog</subtitle>
     <icon>https://itemmods.linwood.dev/es/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2.0.0-alpha.1 released]]></title>
-        <id>2.0.0-alpha.1 released</id>
+        <title type="html"><![CDATA[2.0.0-alpha.1 liberado]]></title>
+        <id>2.0.0-alpha.1 liberado</id>
         <link href="https://itemmods.linwood.dev/es/blog/2021/09/15/2.0.0-alpha.1-released"/>
         <updated>2021-09-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a maintenance update. Translation bugs (#18) were fixed]]></summary>
-        <content type="html"><![CDATA[<p>This is a maintenance update. Translation bugs (<a href="https://github.com/CodeDoctorDE/ItemMods/issues/18">#18</a>) were fixed
-and new api methods were implemented.</p>]]></content>
+        <summary type="html"><![CDATA[Esta es una actualización de mantenimiento. Se corrigieron errores de traducción (#18) y se implementaron nuevos métodos de api.]]></summary>
+        <content type="html"><![CDATA[<p>Esta es una actualización de mantenimiento. Se corrigieron errores de traducción (<a href="https://github.com/CodeDoctorDE/ItemMods/issues/18">#18</a>) y se implementaron nuevos métodos de api.</p>]]></content>
         <author>
-            <name>CodeDoctorDE</name>
+            <name>CodeDoctor</name>
             <uri>https://github.com/CodeDoctorDE</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2.0.0-alpha.0 released]]></title>
-        <id>2.0.0-alpha.0 released</id>
+        <title type="html"><![CDATA[2.0.0-alpha.0 liberado]]></title>
+        <id>2.0.0-alpha.0 liberado</id>
         <link href="https://itemmods.linwood.dev/es/blog/2021/09/05/2.0.0-alpha.0-released"/>
         <updated>2021-09-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ItemMods has its first birthday! Happy birthday! Come to the discord to]]></summary>
-        <content type="html"><![CDATA[<p>ItemMods has its first birthday! Happy birthday! Come to <a href="https://go.linwood.dev/itemmods-discord">the discord</a> to
-celebrate this! I rewrote the plugin.</p><p>Here are the highlights:</p><ul><li>Every item and block is in a pack and have its own file in the pack directory</li><li>GUI improvements: tabs, smaller gui, ...</li><li>Resource pack generator: The plugin will build a resource pack for you. You only need to add a preset, and the
-required textures</li><li>New translation api: It&#x27;s easier to translate. I added crowdin to give the opinion to add their own language to the
-plugin</li><li>New docs: I created an own website for the plugin. Here you can see all news, documentation and more. See
-it <a href="https://itemmods.linwood.dev">here</a></li><li>Remove nms dependency, added nbt api</li><li>Follow the semantic versioning 2.0: Every version is named in the following schema: MAJOR.MINOR.PATCH. The alpha, beta
-and release candidates has a number after it (for example 2.0.0-alpha.0)</li></ul><p>And here is the first release in 2021 for ItemMods! Have fun. The docs are not finished, so please use the discord for
-questions.</p><p>Thank you for waiting :)</p>]]></content>
+        <summary type="html"><![CDATA[¡ItemMods tiene su primer cumpleaños! ¡Feliz cumpleaños! ¡Ven a la discordia para celebrar esto! He reescrito el plugin.]]></summary>
+        <content type="html"><![CDATA[<p>¡ItemMods tiene su primer cumpleaños! ¡Feliz cumpleaños! ¡Ven a <a href="https://go.linwood.dev/itemmods-discord">la discordia</a> para celebrar esto! He reescrito el plugin.</p><p>Aquí están los resaltados:</p><ul><li>Cada elemento y bloque está en un paquete y tiene su propio archivo en el directorio de paquetes</li><li>Mejoras de GUI: pestañas, gui más pequeño, ...</li><li>Generador de paquetes de recursos: El plugin construirá un paquete de recursos para usted. Solo tienes que añadir un preset, y las texturas requeridas</li><li>Nueva traducción: Es más fácil de traducir. He añadido crowdin para dar la opinión de añadir su propio idioma al plugin</li><li>Nuevos documentos: He creado un sitio web propio para el plugin. Aquí puede ver todas las noticias, documentación y más. Ver <a href="https://itemmods.linwood.dev">aquí</a></li><li>Eliminar dependencia de nms, api tutorial añadido</li><li>Siga la versión semántica 2.0: Cada versión se nombra en el siguiente esquema: MAJOR.MINOR.PATCH. Los candidatos alfa, beta y lanzamiento tienen un número después (por ejemplo 2.0.0-alpha.0)</li></ul><p>Y aquí está el primer lanzamiento en 2021 para ItemMods! Diviértete. Los documentos no están terminados, así que por favor use la discordia para las preguntas.</p><p>Gracias por esperar :)</p>]]></content>
         <author>
-            <name>CodeDoctorDE</name>
+            <name>CodeDoctor</name>
             <uri>https://github.com/CodeDoctorDE</uri>
         </author>
     </entry>

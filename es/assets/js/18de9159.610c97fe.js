@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[7033],{1181:function(s){s.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/cumpleanos","name":"cumplea\xf1os","count":1,"permalink":"/es/blog/tags/cumpleanos"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[682],{9431:function(s){s.exports=JSON.parse('{"allTagsPath":"/fr/blog/tags","slug":"/fr/blog/tags/libere","name":"lib\xe9r\xe9","count":2,"permalink":"/fr/blog/tags/libere"}')}}]);

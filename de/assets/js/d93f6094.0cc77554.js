@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[1711],{6174:function(e){e.exports=JSON.parse('{"allTagsPath":"/de/blog/tags","slug":"/de/blog/tags/freigegeben","name":"freigegeben","count":2,"permalink":"/de/blog/tags/freigegeben"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[8922],{4086:function(s){s.exports=JSON.parse('{"allTagsPath":"/fr/blog/tags","slug":"/fr/blog/tags/anniversaire","name":"anniversaire","count":1,"permalink":"/fr/blog/tags/anniversaire"}')}}]);

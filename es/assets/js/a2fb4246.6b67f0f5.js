@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[3721],{424:function(e){e.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/elementos","name":"elementos","count":2,"permalink":"/es/blog/tags/elementos"}')}}]);

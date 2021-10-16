@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[4893],{1591:function(s){s.exports=JSON.parse('{"allTagsPath":"/es/blog/tags","slug":"/es/blog/tags/publicado","name":"publicado","count":2,"permalink":"/es/blog/tags/publicado"}')}}]);

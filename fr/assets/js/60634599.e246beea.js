@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkitemmods_docs=self.webpackChunkitemmods_docs||[]).push([[9515],{3374:function(e){e.exports=JSON.parse('{"allTagsPath":"/fr/blog/tags","slug":"/fr/blog/tags/released","name":"released","count":2,"permalink":"/fr/blog/tags/released"}')}}]);
