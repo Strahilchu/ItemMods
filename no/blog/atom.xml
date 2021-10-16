@@ -12,7 +12,9 @@
         <id>2.0.0-alpha.1 released</id>
         <link href="https://itemmods.linwood.dev/no/blog/2021/09/15/2.0.0-alpha.1-released"/>
         <updated>2021-09-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a maintenance update. Translation bugs (#18) were fixed and new api methods were implemented.]]></summary>
+        <summary type="html"><![CDATA[This is a maintenance update. Translation bugs (#18) were fixed]]></summary>
+        <content type="html"><![CDATA[<p>This is a maintenance update. Translation bugs (<a href="https://github.com/CodeDoctorDE/ItemMods/issues/18">#18</a>) were fixed
+and new api methods were implemented.</p>]]></content>
         <author>
             <name>CodeDoctorDE</name>
             <uri>https://github.com/CodeDoctorDE</uri>
@@ -23,7 +25,14 @@
         <id>2.0.0-alpha.0 released</id>
         <link href="https://itemmods.linwood.dev/no/blog/2021/09/05/2.0.0-alpha.0-released"/>
         <updated>2021-09-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ItemMods has its first birthday! Happy birthday! Come to the discord to celebrate this! I rewrote the plugin.]]></summary>
+        <summary type="html"><![CDATA[ItemMods has its first birthday! Happy birthday! Come to the discord to]]></summary>
+        <content type="html"><![CDATA[<p>ItemMods has its first birthday! Happy birthday! Come to <a href="https://go.linwood.dev/itemmods-discord">the discord</a> to
+celebrate this! I rewrote the plugin.</p><p>Here are the highlights:</p><ul><li>Every item and block is in a pack and have its own file in the pack directory</li><li>GUI improvements: tabs, smaller gui, ...</li><li>Resource pack generator: The plugin will build a resource pack for you. You only need to add a preset, and the
+required textures</li><li>New translation api: It&#x27;s easier to translate. I added crowdin to give the opinion to add their own language to the
+plugin</li><li>New docs: I created an own website for the plugin. Here you can see all news, documentation and more. See
+it <a href="https://itemmods.linwood.dev">here</a></li><li>Remove nms dependency, added nbt api</li><li>Follow the semantic versioning 2.0: Every version is named in the following schema: MAJOR.MINOR.PATCH. The alpha, beta
+and release candidates has a number after it (for example 2.0.0-alpha.0)</li></ul><p>And here is the first release in 2021 for ItemMods! Have fun. The docs are not finished, so please use the discord for
+questions.</p><p>Thank you for waiting :)</p>]]></content>
         <author>
             <name>CodeDoctorDE</name>
             <uri>https://github.com/CodeDoctorDE</uri>
