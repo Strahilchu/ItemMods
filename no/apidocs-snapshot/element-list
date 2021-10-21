@@ -3,8 +3,11 @@ dev.linwood.itemmods.action
 dev.linwood.itemmods.action.pack
 dev.linwood.itemmods.action.pack.raw
 dev.linwood.itemmods.addon
+dev.linwood.itemmods.addon.actions
+dev.linwood.itemmods.addon.model
+dev.linwood.itemmods.addon.simple
+dev.linwood.itemmods.addon.simple.raw
 dev.linwood.itemmods.addon.templates.item
-dev.linwood.itemmods.addon.templates.model
 dev.linwood.itemmods.api
 dev.linwood.itemmods.api.block
 dev.linwood.itemmods.api.events
