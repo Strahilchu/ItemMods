@@ -119,7 +119,7 @@
         <dependency>
             <groupId>me.lucko</groupId>
             <artifactId>commodore</artifactId>
-            <version>1.10</version>
+            <version>1.11</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
