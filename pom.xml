@@ -164,7 +164,7 @@
         <dependency>
             <artifactId>config</artifactId>
             <groupId>dev.linwood</groupId>
-            <version>3.1.0</version>
+            <version>3.1.2</version>
         </dependency>
         <dependency>
             <artifactId>command</artifactId>
